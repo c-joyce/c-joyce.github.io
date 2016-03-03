@@ -42,4 +42,5 @@ Here's a sample "posts list".
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/dbtek/jekyll-bootstrap-3)!
 
-
+[second_one source code](https://github.com/c-joyce/second_one.git)
+[second_one live project](http://c-joyce.github.io/second_one/)
